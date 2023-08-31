@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceInfoAPI", "DeviceInfoAPI\DeviceInfoAPI.csproj", "{D3B20196-06A0-4FE2-8827-AB8982C41342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA", "DATA\DATA.csproj", "{958F17A7-4F72-420A-9F16-7053BB2CC940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B20196-06A0-4FE2-8827-AB8982C41342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B20196-06A0-4FE2-8827-AB8982C41342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B20196-06A0-4FE2-8827-AB8982C41342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B20196-06A0-4FE2-8827-AB8982C41342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958F17A7-4F72-420A-9F16-7053BB2CC940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F17A7-4F72-420A-9F16-7053BB2CC940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F17A7-4F72-420A-9F16-7053BB2CC940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F17A7-4F72-420A-9F16-7053BB2CC940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36370263-6C11-4F41-B883-035BAF65B8F5}
+	EndGlobalSection
+EndGlobal
